@@ -1,15 +1,9 @@
 import { useState } from "react";
 import "./App.css";
 function App() {
-	const [state, setState] = useState("a");
-	console.log("bb");
-	let a = "5";
-	function ch() {
-		setState("b");
-	}
 	return (
 		<>
-			<h1 onClick={ch}>About us {state}</h1>
+			<h1>About us</h1>
 			<p>
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
 				dignissimos?
