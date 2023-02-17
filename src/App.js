@@ -2,25 +2,17 @@ import "./App.css";
 function App() {
 	return (
 		<>
-			<h1>About us</h1>
-			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
-				dignissimos?
-			</p>
-			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
-				odit nesciunt fugit ad, obcaecati fuga corporis sint possimus
-				facere non vel eligendi dolores. Quas similique reiciendis quia
-				incidunt eos ea unde necessitatibus, porro maiores dolor autem,
-				dolores sequi esse molestiae sint pariatur rerum minima, ipsum
-				perferendis aliquid. Earum architecto non sequi, praesentium
-				ratione eius unde velit, odio, dicta deserunt sapiente? Ad
-				facilis veniam perferendis dicta minima, dolorem enim atque sed
-				non culpa rem voluptates corporis iusto qui dolore provident
-				ratione consectetur hic fugit nam sapiente ducimus. Illo earum
-				excepturi cumque necessitatibus labore at, voluptatibus
-				cupiditate perspiciatis ipsa aliquid velit nisi_______
-			</p>
+					<h1>The Evolution of</h1>
+			<h1>Airbnb's Frontend</h1>
+			<br />
+			<br />
+			<p>@aditya</p>
+			<br />
+			<img
+				width={100}
+				src="https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0"
+				alt="logo"
+			/>
 		</>
 	);
 }
